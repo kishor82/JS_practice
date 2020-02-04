@@ -27,7 +27,8 @@ const arr = ['x', 'y', 'z', 'z']; // I want: { x: 1, y: 1, z: 2 };
 //with reduce :
 
 const counts = (arr) => arr.reduce((result, item) => {
-  result[item] ? result[item] += 1 : result[item] = 1
+  console.log(result);
+  // result[item] ? result[item] += 1 : result[item] = 1
   return result;
 }, {});
 
@@ -39,5 +40,5 @@ const counts = (arr) => arr.reduce((result, item) => {
 
 
 console.log('.....')
-console.log(count(['x', 'y', 'z', 'z']));
+console.log(counts(['x', 'y', 'z', 'z']));
 

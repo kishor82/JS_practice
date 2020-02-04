@@ -5,3 +5,4 @@
  2. [Awesome-react-components.](https://github.com/brillout/awesome-react-components)
  3. [ Bit’s tooling.](https://bit.dev/)
  4. [This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://free-for.dev/)
+ 5. [build-tree-array-from-flat-array-in-javascript](https://exceptionshub.com/build-tree-array-from-flat-array-in-javascript.html)
