@@ -7,4 +7,3 @@
  4. [This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://free-for.dev/)
  5. [build-tree-array-from-flat-array-in-javascript](https://exceptionshub.com/build-tree-array-from-flat-array-in-javascript.html)
  6. [react-create-app-without-react-create-app](https://medium.com/@paul.allies/react-create-app-without-react-create-app-7c8341282645)
- 7.[javascript-execution-of-synchronous-and-synchonous-codes](https://medium.com/@siddharthac6/javascript-execution-of-synchronous-and-asynchronous-codes-40f3a199e687)
